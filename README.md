@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a PhD Candidate at the **University of Groningen**, working on **speech and language technologies for low-resource languages**. I also continue my research on cognitive impairment detection from speech, text, and EHR data using multimodal deep learning, in collaboration with Prof. Maryam Zolnoori at **Columbia University**, where I previously worked as a Research Assistant. I hold an M.Sc. from **Sharif University of Technology**.
+I'm a PhD Candidate at the **University of Groningen**, working on **speech and language technologies for low-resource languages**. I also continue my research on cognitive impairment detection from speech, text, and EHR data using multimodal deep learning, in collaboration with Prof. Maryam Zolnoori at **Columbia University**. I hold an M.Sc. from **Sharif University of Technology**.
 
 My work sits at the intersection of speech AI, multimodal modeling, and responsible clinical AI, with a strong emphasis on data-efficient learning, fairness, and explainability.
 
