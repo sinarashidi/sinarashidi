@@ -14,16 +14,16 @@
 
 ## About Me
 
-I'm a PhD Candidate at the **University of Groningen**, working on **speech and language technologies for low-resource languages**. I also continue my research on cognitive impairment detection from speech, text, and EHR data using multimodal deep learning, in collaboration with Prof. Maryam Zolnoori at **Columbia University**. I hold an M.Sc. from **Sharif University of Technology**.
+I'm a PhD Candidate at the **University of Groningen**, working on **speech and language technologies for low-resource languages**. Currently, I am working on building ASR, TTS, and MT systems for Low Saxon varieties. I also continue my research on cognitive impairment detection from speech using multimodal deep learning, in collaboration with Prof. Maryam Zolnoori at **Columbia University**. I hold an M.Sc. from **Sharif University of Technology**.
 
-My work sits at the intersection of speech AI, multimodal modeling, and responsible clinical AI, with a strong emphasis on data-efficient learning, fairness, and explainability.
+My work sits at the intersection of speech processing, deep learning, and multimodal modeling, with a strong emphasis on data-efficient learning.
 
 ---
 
 ## 💼 Experience Highlights
 
 - **PhD Candidate** | University of Groningen (Sep 2026 - Present) · Speech and language technology for low-resource languages
-- **Research Collaborator** | Columbia University (Jan 2024 - Present) · Cognitive AI from speech, multimodal Transformer pipelines, LoRA fine-tuning of Audio-LLMs (paid RA through Aug 2026, now continuing as an independent research collaboration)
+- **Research Collaborator** | Columbia University (Jan 2024 - Present) · Cognitive Impairment detection from speech, multimodal Transformer pipelines
 - **Deep Learning Research Engineer** | BlueDopamine (Feb 2025 - Aug 2026) · LLM-based protein analysis, generative design, structure prediction
 - **ML Engineer (Speech & NLP)** | Sharif Information Systems & Data Science Center (Jan 2022 - Jan 2024) · RAG-based enterprise chatbot, SOTA ASR/TTS for Persian
 - **Research Assistant** | Sharif University of Technology (Jan 2021 - Jun 2024) · ASR, TTS, Voice Conversion, S2ST
